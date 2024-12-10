@@ -8,7 +8,7 @@ This project showcases my work in designing and implementing a machine learning 
 
 
 
-##**How Execute **
+##**How Execute**
 
 Firstly create an environment on Anaconda with all the necessary libraries and packages like tensorflow ,streamlit,etc.
 
